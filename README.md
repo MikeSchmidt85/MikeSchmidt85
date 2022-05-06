@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
  
   
-- 🔭 I’m currently working on <a href="https://github.com/MikeSchmidt85/doggotoggo2.0">DoggoToggo</a> 🐕 | <a href="https://github.com/MikeSchmidt85/doggotoggo2.0">Mike's Restaurant</a> 🍕
+- 🔭 I’m currently working on <a href="https://github.com/MikeSchmidt85/doggotoggo2.0">DoggoToggo 🐕</a> | <a href="https://github.com/MikeSchmidt85/Restaurant_project">Mike's Restaurant 🍕</a> | <a href="https://github.com/MikeSchmidt85/weather_app">WeatherApp</a> ⛅
 - 🌱 I’m currently learning php and c++
 - 💬 Ask me about sports!! Really anything and everything. You name it MLB, NFL, NBA, NHL. It all comes natural
 - 📫 How to reach me: Mike_schmidt85@yahoo.com | <a href="https://www.linkedin.com/in/michael-schmidt-d/">LinkedIn</a>
