@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
  
   
-- 🔭 I’m currently working on <a href="https://github.com/MikeSchmidt85/doggotoggo2.0">DoggoToggo</a> 🐕 |
+- 🔭 I’m currently working on <a href="https://github.com/MikeSchmidt85/doggotoggo2.0">DoggoToggo</a> 🐕 | <a href="https://github.com/MikeSchmidt85/doggotoggo2.0">Mike's Restaurant</a> 🍕
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 📫 How to reach me: Mike_schmidt85@yahoo.com | <a href="https://www.linkedin.com/in/michael-schmidt-d/">LinkedIn</a>
