@@ -1,4 +1,4 @@
-Hi there, I'm Mike
+<h1>Hi there, I'm Mike</h1>
 
 Welcome to my GitHub
 <hr>
