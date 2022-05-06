@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Mike</h1>
-
 <h3 align="center">Welcome to my GitHub</h3>
-<hr>
 
 <!--
 **MikeSchmidt85/MikeSchmidt85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
