@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 <h2 align="center">🐍 Languages and Tools 🐍</h2> 
 
 Languages: [Python, Java, MERN]
-Front End: [HTML, CSS, ReactJS]
-
+Front End: [HTML, CSS, ReactJS, php]
+Bask End: [NodeJS, SpringTool Suite, Express, Flask, Bcrypt, Spring Boot, Tomcat, Apache]
+Databases: [MySQL, NoSQL, MongoDB, SQLite]
+Software: [Pstman, MySQL Workbench, VS Code, CodeBlocks]
 
 
