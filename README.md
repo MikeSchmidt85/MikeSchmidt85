@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-<p align="center"><img src="https://user-images.githubusercontent.com/89613492/167223153-1d56a8df-b0d9-43bc-9f06-f6e8cfb39a0b.jpg" /></p>
+<p align="center" width= "200px><img src="https://user-images.githubusercontent.com/89613492/167223153-1d56a8df-b0d9-43bc-9f06-f6e8cfb39a0b.jpg" /></p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
