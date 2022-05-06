@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi there, I'm Mike</h1>
 <h3 align="center">Welcome to my GitHub</h3>
 
@@ -20,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Mike_schmidt85@yahoo.com | <a href="https://www.linkedin.com/in/michael-schmidt-d/">LinkedIn</a>
 - ⚡ Fun fact: ...
 
-
+<h2 <h3 align="center">Languages and Tools</h2>
 
 
 
