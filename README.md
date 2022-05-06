@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">🐍 Languages and Tools 🐍</h2> 
 
+Languages: [Python, Java, MERN]
+Front End: [HTML, CSS, ReactJS]
 
 
