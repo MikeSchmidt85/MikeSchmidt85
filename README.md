@@ -28,3 +28,6 @@ Languages: [Python, Java, MERN]
 Front End: [HTML, CSS, ReactJS]
 
 
+Looking for a Software Engineer for your company??
+Download my resume <a href"file:///C:/Users/Schmidt%20Bros%20Termite/Downloads/Mike%20Schmidt%20Resume.pdf">here</a>
+
