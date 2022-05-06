@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mike</h1>
 
-Welcome to my GitHub
+<h3 align="center">Welcome to my GitHub</h3>
 <hr>
 
 <!--
