@@ -1,6 +1,7 @@
 Hi there, I'm Mike
 
 Welcome to my GitHub
+<hr>
 
 <!--
 **MikeSchmidt85/MikeSchmidt85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
