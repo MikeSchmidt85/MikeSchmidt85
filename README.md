@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Mike_schmidt85@yahoo.com | <a href="https://www.linkedin.com/in/michael-schmidt-d/">LinkedIn</a>
 - ⚡ Fun fact: ...
 
-🐍 <h2 align="center">Languages and Tools</h2> 🐍
+<h2 align="center">🐍 Languages and Tools 🐍</h2> 
 
 
 
