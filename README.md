@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning php and c++
 - 💬 Ask me about sports!! Really anything and everything. You name it MLB, NFL, NBA, NHL. It all comes natural
 - 📫 How to reach me: Mike_schmidt85@yahoo.com | <a href="https://www.linkedin.com/in/michael-schmidt-d/">LinkedIn</a>
-- ⚡ Fun fact: ...
+- ⚡ Fun fact #girldad
 
 <h2 align="center">🐍 Languages and Tools 🐍</h2> 
 
