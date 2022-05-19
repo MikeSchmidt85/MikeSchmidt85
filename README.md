@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Mike_schmidt85@yahoo.com | <a href="https://www.linkedin.com/in/michael-schmidt-d/">LinkedIn</a>
 - ⚡ Fun fact #girldad
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-18657810&psig=AOvVaw05KIdQrp-2QPGU_iAypgiE&ust=1653075451593000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiHjouo7PcCFQAAAAAdAAAAABAD
+
 <h2 align="center">🐍 Languages and Tools 🐍</h2> 
 
 Languages: [Python, Java, MERN] <br/>
