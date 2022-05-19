@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about sports!! Really anything and everything. You name it MLB, NFL, NBA, NHL. It all comes natural
 - 📫 How to reach me: Mike_schmidt85@yahoo.com | <a href="https://www.linkedin.com/in/michael-schmidt-d/">LinkedIn</a>
 - ⚡ Fun fact #girldad
-- 
+
+
 <p align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></p>
 
 
