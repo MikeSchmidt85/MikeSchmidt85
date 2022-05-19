@@ -35,8 +35,9 @@ Bask End: [NodeJS, SpringTool Suite, Express, Flask, Bcrypt, Spring Boot, Tomcat
 Databases: [MySQL, NoSQL, MongoDB, SQLite]<br/>
 Software: [Pstman, MySQL Workbench, VS Code, CodeBlocks]<br/>
 
+<div align="center height=50px>
 <img src="https://freepngimg.com/thumb/categories/1402.png"/>
 <img src="https://freepngimg.com/thumb/categories/1402.png"/>
 <img src="https://freepngimg.com/thumb/categories/1402.png"/>
 <img src="https://freepngimg.com/thumb/categories/1402.png"/>
-
+</div>
