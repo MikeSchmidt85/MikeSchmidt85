@@ -33,4 +33,4 @@ Languages: [Python, Java, MERN] <br/>
 Front End: [HTML, CSS, ReactJS, php]<br/>
 Bask End: [NodeJS, SpringTool Suite, Express, Flask, Bcrypt, Spring Boot, Tomcat, Apache] <br/>
 Databases: [MySQL, NoSQL, MongoDB, SQLite]<br/>
-Software: [Pstman, MySQL Workbench, VS Code, CodeBlocks]<br/>
+Software: [Postman, MySQL Workbench, VS Code, CodeBlocks]<br/>
