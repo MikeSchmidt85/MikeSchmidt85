@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Mike_schmidt85@yahoo.com | <a href="https://www.linkedin.com/in/michael-schmidt-d/">LinkedIn</a>
 - ⚡ Fun fact #girldad
 - 
- <p align="center"> img src= "https://user-images.githubusercontent.com/89613492/169388953-9d8df2cd-c283-4ce7-b000-1ce5710a7d9a.gif"/></p>
+<p align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></p>
 
 
 
