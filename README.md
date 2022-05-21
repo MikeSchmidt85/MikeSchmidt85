@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></p>
 
+![git](https://user-images.githubusercontent.com/89613492/169663121-397ed819-c307-43af-aa41-82cdae2e33c4.svg)
 
 
 <h2 align="center">🐍 Languages and Tools 🐍</h2> 
