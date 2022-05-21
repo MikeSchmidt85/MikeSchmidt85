@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/89613492/169663768-1d0bedc2-dad7-4b76-9906-eafa3c2f3a60.png" width= 50px>
 <img src="https://user-images.githubusercontent.com/89613492/169663769-2238de67-33bb-4cab-b919-3c5d09474e31.svg" width= 50px>
 <img src="https://user-images.githubusercontent.com/89613492/169663770-2a8d0a28-29bd-4f91-8dfa-97f3961465c9.svg" width= 50px>
+<img src="https://user-images.githubusercontent.com/89613492/169663900-31cb64fe-f9c2-4111-9ff3-b1557975e628.jpg" width= 50px>
+<img src="https://user-images.githubusercontent.com/89613492/169663904-6112e21d-71c6-4c2f-b806-f468f73e31f8.png" width= 50px>
+
+ 
 </div>
 
 <h2 align="center">🐍 Languages and Tools 🐍</h2> 
