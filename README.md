@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 <div display="flex" align="center">
  
+<img src="https://user-images.githubusercontent.com/89613492/169664209-00e2598b-9976-4014-b555-fca9e5ad0866.png" width= 85px>
+<img src="https://user-images.githubusercontent.com/89613492/169664215-3b2ed6fd-97df-4686-ac02-deec0e88e939.jpg" width= 85px>
 <img src="https://user-images.githubusercontent.com/89613492/169663121-397ed819-c307-43af-aa41-82cdae2e33c4.svg" width= 50px>
 <img src="https://user-images.githubusercontent.com/89613492/169663763-17240bae-99fb-4c30-bf64-8021d52573ae.svg" width= 50px>
 <img src="https://user-images.githubusercontent.com/89613492/169663764-d00ffa51-fa60-48cf-a1f5-557cff7c4422.svg" width= 50px>
