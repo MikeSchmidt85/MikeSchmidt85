@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></p>
 
-<div display="flex">
+<div display="flex" align="center">
 <img src="https://user-images.githubusercontent.com/89613492/169663121-397ed819-c307-43af-aa41-82cdae2e33c4.svg" width= 50px>
 <img src="https://user-images.githubusercontent.com/89613492/169663763-17240bae-99fb-4c30-bf64-8021d52573ae.svg" width= 50px>
 <img src="https://user-images.githubusercontent.com/89613492/169663764-d00ffa51-fa60-48cf-a1f5-557cff7c4422.svg" width= 50px>
