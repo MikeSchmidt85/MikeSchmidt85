@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></p>
 
 <img src="https://user-images.githubusercontent.com/89613492/169663121-397ed819-c307-43af-aa41-82cdae2e33c4.svg" width= 50px>
+<img src="https://user-images.githubusercontent.com/89613492/169663763-17240bae-99fb-4c30-bf64-8021d52573ae.svg" width= 50px>
+<img src="https://user-images.githubusercontent.com/89613492/169663764-d00ffa51-fa60-48cf-a1f5-557cff7c4422.svg" width= 50px>
+<img src="https://user-images.githubusercontent.com/89613492/169663765-74fed962-09d7-4809-ab01-c04856aa8267.svg" width= 50px>
+<img src="https://user-images.githubusercontent.com/89613492/169663766-1c227846-089e-460a-8dac-1f3bb35d52bb.svg" width= 50px>
+<img src="https://user-images.githubusercontent.com/89613492/169663767-61716119-26ec-454f-9249-fb025026ff68.svg" width= 50px>
+<img src="https://user-images.githubusercontent.com/89613492/169663768-1d0bedc2-dad7-4b76-9906-eafa3c2f3a60.png" width= 50px>
+<img src="https://user-images.githubusercontent.com/89613492/169663769-2238de67-33bb-4cab-b919-3c5d09474e31.svg" width= 50px>
+<img src="https://user-images.githubusercontent.com/89613492/169663770-2a8d0a28-29bd-4f91-8dfa-97f3961465c9.svg" width= 50px>
 
 
 <h2 align="center">🐍 Languages and Tools 🐍</h2> 
