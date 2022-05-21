@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <div display="flex" align="center">
  
-<img src="https://user-images.githubusercontent.com/89613492/169664209-00e2598b-9976-4014-b555-fca9e5ad0866.png" width= 85px>
+ <img src="https://user-images.githubusercontent.com/89613492/169664527-a3f34353-1060-4f87-9945-c2bf4ddb26dd.png" width= 50px>
 <img src="https://user-images.githubusercontent.com/89613492/169664215-3b2ed6fd-97df-4686-ac02-deec0e88e939.jpg" width= 85px>
 <img src="https://user-images.githubusercontent.com/89613492/169663121-397ed819-c307-43af-aa41-82cdae2e33c4.svg" width= 50px>
 <img src="https://user-images.githubusercontent.com/89613492/169663763-17240bae-99fb-4c30-bf64-8021d52573ae.svg" width= 50px>
@@ -39,9 +39,6 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/89613492/169663769-2238de67-33bb-4cab-b919-3c5d09474e31.svg" width= 50px>
 <img src="https://user-images.githubusercontent.com/89613492/169663770-2a8d0a28-29bd-4f91-8dfa-97f3961465c9.svg" width= 50px>
 
-<img src="https://user-images.githubusercontent.com/89613492/169664527-a3f34353-1060-4f87-9945-c2bf4ddb26dd.png" width= 50px>
-
- 
 </div>
 
 <h2 align="center">🐍 Languages and Tools 🐍</h2> 
